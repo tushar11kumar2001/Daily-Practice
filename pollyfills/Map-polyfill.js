@@ -14,4 +14,4 @@ const arr = [1,2,3,4,5];
 console.log(arr);
 
 const modifyArr = arr.customMap(e => e+1);
-console.log(modifyArr)
+console.log(modifyArr);
