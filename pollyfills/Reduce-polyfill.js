@@ -30,4 +30,6 @@ const reduceArr = arr.customReduce((acc, curr)=>{
     return acc;
 },[])
 
+
 console.log(reduceArr);
+
